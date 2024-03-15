@@ -1,0 +1,167 @@
+{
+    "Peliculas": {
+        "Genero":{
+            "Drama": {
+                "The Shawshank Redemption": {
+                    "Año": 1994,
+                    "Genero": "Drama",
+                    "Descripción": "Dos hombres encuentran esperanza en medio de la desesperación mientras están encarcelados en la Penitenciaría Estatal de Shawshank."
+                },
+                "The Godfather": {
+                    "Año": 1972,
+                    "Genero": "Crimen, Drama",
+                    "Descripción": "La historia épica de una familia criminal ítaloamericana liderada por el patriarca Vito Corleone."
+                },
+                "Forrest Gump": {
+                    "Año": 1994,
+                    "Genero": "Drama, Romance",
+                    "Descripción": "La vida de Forrest Gump, un hombre con un coeficiente intelectual bajo pero una vida extraordinaria."
+                },
+                "Pulp Fiction": {
+                    "Año": 1994,
+                    "Genero": "Crimen, Drama",
+                    "Descripción": "Una serie de historias entrelazadas sobre el crimen y la redención en Los Ángeles."
+                },
+                "Fight Club": {
+                    "Año": 1999,
+                    "Genero": "Drama",
+                    "Descripción": "Un hombre descontento con su vida conoce a un carismático vendedor de jabón y juntos forman un club de lucha clandestino."
+                },
+                "The Silence of the Lambs": {
+                    "Año": 1991,
+                    "Genero": "Drama, Suspenso",
+                    "Descripción": "Una joven agente del FBI busca la ayuda de un brillante pero peligroso psiquiatra para atrapar a un asesino en serie."
+                }
+            },
+            "Crimen": {
+                "The Godfather": {
+                    "Año": 1972,
+                    "Genero": "Crimen, Drama",
+                    "Descripción": "La historia épica de una familia criminal ítaloamericana liderada por el patriarca Vito Corleone."
+                },
+                "Pulp Fiction": {
+                    "Año": 1994,
+                    "Genero": "Crimen, Drama",
+                    "Descripción": "Una serie de historias entrelazadas sobre el crimen y la redención en Los Ángeles."
+                }
+            },
+            "Acción": {
+                "The Dark Knight": {
+                    "Año": 2008,
+                    "Genero": "Acción, Crimen, Drama",
+                    "Descripción": "Batman debe enfrentarse al caos desatado por el Joker en Gotham City."
+                },
+                "Inception": {
+                    "Año": 2010,
+                    "Genero": "Acción, Ciencia ficción, Suspenso",
+                    "Descripción": "Un ladrón de ideas entra en los sueños de sus objetivos para robar secretos del subconsciente."
+                },
+                "The Matrix": {
+                    "Año": 1999,
+                    "Genero": "Acción, Ciencia ficción",
+                    "Descripción": "Un hacker descubre la verdad sobre la realidad y su papel en la lucha contra las máquinas que controlan la humanidad."
+                }
+            },
+            "Aventura": {
+                "The Lord of the Rings: The Fellowship of the Ring": {
+                    "Año": 2001,
+                    "Genero": "Aventura, Drama, Fantasía",
+                    "Descripción": "Un joven hobbit emprende un viaje épico para destruir un poderoso anillo y salvar su mundo de la oscuridad."
+                }
+            },
+            "Ciencia ficción": {
+                "Inception": {
+                    "Año": 2010,
+                    "Genero": "Acción, Ciencia ficción, Suspenso",
+                    "Descripción": "Un ladrón de ideas entra en los sueños de sus objetivos para robar secretos del subconsciente."
+                },
+                "The Matrix": {
+                    "Año": 1999,
+                    "Genero": "Acción, Ciencia ficción",
+                    "Descripción": "Un hacker descubre la verdad sobre la realidad y su papel en la lucha contra las máquinas que controlan la humanidad."
+                }
+            },
+            "Suspenso": {
+                "The Silence of the Lambs": {
+                    "Año": 1991,
+                    "Genero": "Drama, Suspenso",
+                    "Descripción": "Una joven agente del FBI busca la ayuda de un brillante pero peligroso psiquiatra para atrapar a un asesino en serie."
+                }
+            },
+            "Romance": {
+                "Forrest Gump": {
+                    "Año": 1994,
+                    "Genero": "Drama, Romance",
+                    "Descripción": "La vida de Forrest Gump, un hombre con un coeficiente intelectual bajo pero una vida extraordinaria."
+                }
+            }
+        },
+        "Año":{
+            "1972":{
+                "The Godfather": {
+                    "Año": 1972,
+                    "Genero": "Crimen, Drama",
+                    "Descripción": "La historia épica de una familia criminal ítaloamericana liderada por el patriarca Vito Corleone."
+                }
+            },
+            "1991":{
+                "The Silence of the Lambs": {
+                    "Año": 1991,
+                    "Genero": "Drama, Suspenso",
+                    "Descripción": "Una joven agente del FBI busca la ayuda de un brillante pero peligroso psiquiatra para atrapar a un asesino en serie."
+                }
+
+            },
+            "1994":{
+                "Forrest Gump": {
+                    "Año": 1994,
+                    "Genero": "Drama, Romance",
+                    "Descripción": "La vida de Forrest Gump, un hombre con un coeficiente intelectual bajo pero una vida extraordinaria."
+                },
+                "Pulp Fiction": {
+                    "Año": 1994,
+                    "Genero": "Crimen, Drama",
+                    "Descripción": "Una serie de historias entrelazadas sobre el crimen y la redención en Los Ángeles."
+                },
+                "The Shawshank Redemption": {
+                    "Año": 1994,
+                    "Genero": "Drama",
+                    "Descripción": "Dos hombres encuentran esperanza en medio de la desesperación mientras están encarcelados en la Penitenciaría Estatal de Shawshank."
+                }
+            },
+            "1999":{
+                "The Matrix": {
+                    "Año": 1999,
+                    "Genero": "Acción, Ciencia ficción",
+                    "Descripción": "Un hacker descubre la verdad sobre la realidad y su papel en la lucha contra las máquinas que controlan la humanidad."
+                },
+                "Fight Club": {
+                    "Año": 1999,
+                    "Genero": "Drama",
+                    "Descripción": "Un hombre descontento con su vida conoce a un carismático vendedor de jabón y juntos forman un club de lucha clandestino."
+                }
+            },
+            "2001":{
+                "The Lord of the Rings: The Fellowship of the Ring": {
+                    "Año": 2001,
+                    "Genero": "Aventura, Drama, Fantasía",
+                    "Descripción": "Un joven hobbit emprende un viaje épico para destruir un poderoso anillo y salvar su mundo de la oscuridad."
+                }
+            },
+            "2008":{
+                "The Dark Knight": {
+                    "Año": 2008,
+                    "Genero": "Acción, Crimen, Drama",
+                    "Descripción": "Batman debe enfrentarse al caos desatado por el Joker en Gotham City."
+                }
+            },
+            "2010":{
+                "Inception": {
+                    "Año": 2010,
+                    "Genero": "Acción, Ciencia ficción, Suspenso",
+                    "Descripción": "Un ladrón de ideas entra en los sueños de sus objetivos para robar secretos del subconsciente."
+                }
+            }
+        }
+    }
+}
